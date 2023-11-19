@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #1a2e27;
+  color: white;
+}
+
+#content {
+  margin-top: 20px;
+  background-color: #ddd;
+  padding: 20px;
+  border-radius: 8px;
+  color: black;
+}
+
+.home-title,
+.tip-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.home-intro {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
